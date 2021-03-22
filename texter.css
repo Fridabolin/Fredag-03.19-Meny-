@@ -1,0 +1,47 @@
+
+
+
+.huvudrubrik {
+
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    text-align:center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+}
+
+.underrubrik {
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    font-weight: 800;
+    margin-bottom: 50px;
+}
+
+
+h3 {
+
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
+
+ul {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    list-style:none;
+    font-size: small
+}
+
+.menyram {
+    background-color:#ffffffab;
+    color:black;
+    font-weight: 600;
+    margin: auto;
+    outline-style:solid;
+    outline-color: lightgray;
+    width: fit-content;
+    text-align: center;
+    padding: 8px;
+}
+    
